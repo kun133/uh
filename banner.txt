@@ -1,0 +1,28 @@
+  _____  _    _ ______ _   _     ____   ____   ____ _______ 
+ |  __ \| |  | |  ____| \ | |   |  _ \ / __ \ / __ \__   __|
+ | |  | | |__| | |__  |  \| |   | |_) | |  | | |  | | | |   
+ | |  | |  __  |  __| | . ` |   |  _ <| |  | | |  | | | |   
+ | |__| | |  | | |____| |\  |   | |_) | |__| | |__| | | |   
+ |_____/|_|  |_|______|_| \_|   |____/ \____/ \____/  |_|   
+                                                            
+#| Development : Dhen Bhocil
+#| Version : 5.01 
+#| Creator : Priv8 B00t-Gank
+#| Telegram : @haxgeno7
+
+[1]  Mass Scan Shell ( new )
+[2]  Mass Alfa Perl Scan ( new )
+[3]  Mass Domain To IP ( new )
+[4]  Mass Reverse IP  ( print subdo )
+[5]  Mass Reverse IP ( no print subdo )
+[6]  Mass Domain + IP Status Checker ( new )
+[7]  Mass CMS Scann ( new )
+[8]  Mass Grabber Domain ( wordpress )
+[9]  Mass env + debug Scanner ( new )
+[10] Mass Grabber Domain ( api1 )
+[11] Mass Grabber Domain ( api2 )
+[12] Mass Grabber Domain ( api3 )
+[13] Mass Grabber Domain ( api4 )
+[14] Mass List Cleanner ( new )
+[15] Mass Range IP ( new )
+[16] OpenCart Bruteforce ( Comingsoon )
