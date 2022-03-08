@@ -8,7 +8,7 @@
 #| Development : Dhen Bhocil
 #| Version : 5.01 
 #| Creator : Priv8 B00t-Gank
-#| Telegram : @haxgeno7
+#| Telegram : @dhenbhocil
 
 [1]  Mass Scan Shell ( new )
 [2]  Mass Alfa Perl Scan ( new )
@@ -20,9 +20,6 @@
 [8]  Mass Grabber Domain ( wordpress )
 [9]  Mass env + debug Scanner ( new )
 [10] Mass Grabber Domain ( api1 )
-[11] Mass Grabber Domain ( api2 )
-[12] Mass Grabber Domain ( api3 )
-[13] Mass Grabber Domain ( api4 )
-[14] Mass List Cleanner ( new )
-[15] Mass Range IP ( new )
-[16] OpenCart Bruteforce ( Comingsoon )
+[11] Mass List Cleanner ( new )
+[12] Mass Range IP ( new )
+[13] OpenCart Bruteforce ( Comingsoon )
