@@ -6,7 +6,7 @@
  |_____/|_|  |_|______|_| \_|   |____/ \____/ \____/  |_|   
                                                             
 #| Development : Dhen Bhocil
-#| Version : 5.01 
+#| Version : 6.01 
 #| Creator : Priv8 B00t-Gank
 #| Telegram : @dhenbhocil
 
