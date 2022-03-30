@@ -24,3 +24,4 @@
 [12] Mass Range IP ( new )
 [13] OpenCart Bruteforce ( new )
 [14] Mass Remove Duplicate ( new )
+[15] WordPress Upload Shell From Plugins
