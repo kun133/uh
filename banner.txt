@@ -25,4 +25,4 @@
 [13] OpenCart Bruteforce ( new )
 [14] Mass Remove Duplicate ( new )
 [15] WordPress Upload Shell ( From Plugins )
-[16] Alfa Perl Auto Upload Shell ( new )
+[16] Alfa Perl Auto Upload Shell ( comingsoon )
