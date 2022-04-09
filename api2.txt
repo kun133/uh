@@ -1,1 +1,1 @@
-fellbackup001.herokuapp.com
+jurnal.wicida.ac.id/controllers/modals/submissionMetadata/form/FormInc/
